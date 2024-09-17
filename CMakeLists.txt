@@ -26,7 +26,7 @@ install(
   DIRECTORY models
   DESTINATION share/${PROJECT_NAME}
 )
-ament_index_register_resource("dnn_models.emotion_recognition" CONTENT "emotion-ferplus-8.onnx")
+ament_index_register_resource("dnn_models.emotion_recognition" CONTENT "models/emotion-ferplus-8.onnx")
 
 
 ament_auto_package()
