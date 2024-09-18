@@ -2,8 +2,8 @@
 Changelog for package hri_emotion_models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.1 (2024-09-18)
+------------------
 * Merge branch 'cmake-dep' into 'main'
   add missing buildtool dep on cmake
   See merge request ros4hri/hri_emotion_models!2
