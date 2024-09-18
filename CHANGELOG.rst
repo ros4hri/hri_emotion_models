@@ -2,8 +2,8 @@
 Changelog for package hri_emotion_models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.0 (2024-09-18)
+------------------
 * remove dependency on ament_cmake
   This helps the CI/CD pipeline, by avoiding re-generating the (relatively heavy) package too often
 * add model folder
